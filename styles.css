@@ -1,0 +1,32 @@
+
+    .center {
+    text-align: center
+    }
+        .smaller_image {
+        width: 300px;
+        height:auto;
+        }
+        header > h1 {
+        color: white;
+        }
+        header {
+        background: black;
+        }
+        #middle_page_picture {
+        border-radius: 15px;
+        }
+        .search_box {
+        width: 100%;
+        font-size: 20px;
+
+        }
+        .btn {
+        background: black;
+        color: blue;
+        font-size: 20px;
+
+        }
+        .margin_padding {
+        margin: 10px;
+        padding: 20px;
+        }
